@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "Close Multiple Tabs"
+  },
+  "appDesc": {
+    "message": "Close Tabs to Right/Left/Other With a Shortcut Key"
+  },
+  "closeTabsToRight": {
+    "message": "Close Tabs to right"
+  },
+  "closeTabsToLeft": {
+    "message": "Close Tabs to left"
+  },
+  "closeOtherTabs": {
+    "message": "Close other Tabs"
+  }
+}
