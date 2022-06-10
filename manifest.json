@@ -4,7 +4,7 @@
   "manifest_version": 3,
   "description": "__MSG_appDesc__",
   "default_locale": "en",
-  "permissions": ["tabs", "storage"],
+  "permissions": ["tabs"],
   "background": {
     "service_worker": "background.js"
   },
